@@ -1,4 +1,4 @@
-# Defin path_exists()
+# Define path_exists()
 def path_exists(G, node1, node2):
 	"""
 	Breadth-first seach algorithim
